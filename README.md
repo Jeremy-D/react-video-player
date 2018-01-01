@@ -1,3 +1,25 @@
+# This was a React Exercise from Stephen Grider's video course
+# Topics that were covered
+ - Set up a basic react application from a template (reduxsimplestarter)
+ - Learn the structure of react components
+ - Use jsx in react
+ - Manipulate props and state
+ - Import and export components and libraries
+ - Use class based components as well as functional components
+ - Use callbacks to manipulate state
+ - Use the youtube api
+ - Use lodash debounce
+ - Implement bootstrap
+
+# To do
+ - Design a more apealing UI
+ - Add functionality
+ - Implement Redux
+
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
